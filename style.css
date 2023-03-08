@@ -1,0 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #fffff1;
+    color: #000;
+}
+h1 {
+    text-align: center;
+
+}
+h3 {
+    text-align: center;
+    padding-bottom: 75px;
+}
+h2 {
+    padding-left: 24px;
+    padding-top: 20px;
+    padding-bottom: 22px;
+}
+p {
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+div {
+    background-color: #ffff;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px black;
+    max-width: 660px;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: auto;
+    padding-bottom: 8px;
+}
+tr{
+    padding-left: 10px;
+}
+td{
+    padding-left: 10px;
+}
